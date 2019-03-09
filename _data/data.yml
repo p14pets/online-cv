@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Panagiota Petsava
     tagline: Department of Informatics Undergraduate Student
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: p14pets@ionio.gr
@@ -42,14 +42,10 @@ sidebar:
         link:
 
 career-profile:
-#     title: Career Profile
-#     summary: |
-#       Summarise your career here lorem ipsum dolor sit amet, consectetuer
-#       adipiscing elit. You can [download this free resume/CV template here]().
-#       Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-#       penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-#       Donec quam felis, ultricies nec, pellentesque eu.
-
+    title: Personal Information
+    summary: |
+      My name is Panagiota Petsava and throughout my experience in university I have developed basic skills and can confidently say I am a hardworking person as a whole.
+      I can't say I am an avid learner by any means but I always manage to handle the task at hand. Although, I don't have any work experience in the Department of Informatics, I try to multitask by working at a local food-chain restaurant while also attending my studies in my university.
 #       Second paragraph if required.
 
 education:
@@ -170,7 +166,9 @@ skills:
     title: Skills 
 
     toolset:
-      - name: C and C++ 
+
+
+      - name: C and C++ <br>
         # level: 98%
 
       - name: HTML5 and CSS
